@@ -1,5 +1,5 @@
-# ruby-cli-template
+# My Adopt A Dog CLI
+A command line interface app to simulate adopting and owning pet dog.
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+## Usage
+Run `ruby app.rb` in the terminal.
